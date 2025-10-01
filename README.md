@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently developing a Rust application for customised Windows features. <br>💭 I’m eager to collaborate on enjoyable projects. <br>💻 Currently, I am focusing on learning Rust. <br>🎈 Fun fact: I have been self-learning and coding for about a decade. <br>
+🔭 I’m currently developing a Rust application for customised Windows features. <br>💭 I’m eager to collaborate on enjoyable projects. <br>💻 Currently, I am focusing on learning Rust. <br>🎈 Fun fact: I have been self-taught and coding for about a decade. <br>
 
 
 ## 🌐 Socials:
